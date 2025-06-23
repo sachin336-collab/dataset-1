@@ -1,0 +1,9 @@
+Customer ID,Full Name,Gender,AGE,Join Date,City,Email
+1001,Ravi,male,25.0,12-03-2023,Delhi,ravi@mail.com
+1002,Meena,Female,28.0,2023/03/13,delhi,meena@mail.com
+1003,,MALE,,14.03.2023,Mumbai,sam@mail.com
+1004,Asha,female,27.0,13-03-2023,MUMBAI,asha@mail.com
+1002,Meena,Female,28.0,2023/03/13,delhi,meena@mail.com
+1005,David,male,,2023-03-15,Bengaluru,david@mail.com
+1006,Priyanka,FemaLe,29.0,15-03-2023,bengaluru,priyanka@mail.com
+1007,John,,26.0,16.03.2023,,john@mail.com
